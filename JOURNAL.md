@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 10h | 2 |
+| Week 2 | Tier 2 | 5h | 2 |
 
 ## Contents
 
@@ -37,7 +37,7 @@ Extruded and shelled initial box:
 
 ### 2026-10-17 – The easiest way to neatly store tools would be slots in the bottom of the box, with a tray directly over it.
 
-**7h**
+**2h**
 
 The easiest way to neatly store tools would be slots in the bottom of the box, with a tray directly over it.
 
@@ -52,21 +52,4 @@ Additionally, I want to be able to carry cutting implements too, so another spac
 
 XActo knife slot added in sketch, as well as an open box for miscellaneous items such as spare blades.
 
-I also added two more compartments for rigid sanding sticks and other small useful items.
-
-![Screenshot 2026-10-17 180953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/6c8e5cfe44f19a87946a8e53b67070a9cac9ae9e2741aec724d8c8161556eeae.png)
-
-Modelled:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/748e1c33ae26459a5f8de542d142a73686ad4dbf5a3fbf8283ed768b9290a6a0.png)
-
-After creating the general shape of the tray, I also raised the height of the knife handle slot to make it easier to remove.
-
-Filleted edges:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/71e01a148ec4e5bb216bdf0ad283bea2b89c87fcf2be1cb30db2ae6a513516be.png)
-
-Fitted in the box itself:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/d77b6401b577004eb733c615460248b4dc177df745e2faa817204589bb6060ef.png)
-
-After some adjustments, I realised the bottom right compartment was not going to be efficient for general miscellaneous items due to being too small. Hence, I rearranged the compartments with a nice bonus of a cleaner final look.
-
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/0601db3a8c46a6d76eb12445e66d66c7ea9d25627401a60a63937b516498203f.png)
+Will arrange and model other sections in following entries.
