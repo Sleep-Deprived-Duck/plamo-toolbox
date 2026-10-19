@@ -20,7 +20,7 @@
 4. [2026-10-17 – After taking a break and looking at more tools, I realised the bottom right compartment of the tray is a little too small for a general-purpose compartment, so I adjusted the dimensions of the two mis](#2026-10-17-after-taking-a-break-and-looking-at-more-tools-i-)
 5. [2026-10-18 – Started work on second tray:](#2026-10-18-started-work-on-second-tray)
 6. [2026-10-18 – Working on the lid for the toolbox](#2026-10-18-working-on-the-lid-for-the-toolbox)
-7. [2026-10-18 – Debated between listing a short bill of materials for dowel pins or adding a file for 3d printed pins, and decided to model the pins I need on top of listing down metal ones for the fact that they're](#2026-10-18-debated-between-listing-a-short-bill-of-materials)
+7. [2026-10-18 – Added dowel pins to secure the hinges](#2026-10-18-added-dowel-pins-to-secure-the-hinges)
 
 ## Design
 
@@ -146,12 +146,11 @@ Box latch
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/2d5721113654d26e7df1b314637dca7460e74c2f147259ee7b02da6f56f5fbdc.png)
 
-### 2026-10-18 – Debated between listing a short bill of materials for dowel pins or adding a file for 3d printed pins, and decided to model the pins I need on top of listing down metal ones for the fact that they're
+### 2026-10-18 – Added dowel pins to secure the hinges
 
 **1h**
 
-Debated between listing a short bill of materials for dowel pins or adding a file for 3d printed pins, and decided to model the pins I need on top of listing down metal ones for the fact that they're more robust.
-
+Added dowel pins to secure the hinges
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/331e95a1cbe85980b3b0f14331dbf9ca4beb3c354fd7ce9901e06ea3bea4311b.png)
 
 Everything arranged and mostly put together:
