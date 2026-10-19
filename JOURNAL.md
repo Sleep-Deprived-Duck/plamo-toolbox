@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 17.5h | 7 |
+| Week 2 | Tier 2 | 18h | 7 |
 
 ## Contents
 
@@ -148,7 +148,7 @@ Box latch
 
 ### 2026-10-18 – Debated between listing a short bill of materials for dowel pins or adding a file for 3d printed pins, and decided to model the pins I need on top of listing down metal ones for the fact that they're
 
-**0.5h**
+**1h**
 
 Debated between listing a short bill of materials for dowel pins or adding a file for 3d printed pins, and decided to model the pins I need on top of listing down metal ones for the fact that they're more robust.
 
@@ -157,3 +157,7 @@ Debated between listing a short bill of materials for dowel pins or adding a fil
 Everything arranged and mostly put together:
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/a4d481cf547eaf5162959d1e993298f5febe010d052b2498747ca6cd6fc61570.png)
+
+Decided to adjust the pin holes again to accommodate metal dowels, also gave the hinge points more reinforcement
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/d9f36efff506afa794b4ef0f7da2a34dc72b63730367560ff46cb1e5cefa779d.png)
