@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 18h | 7 |
+| Week 2 | Tier 2 | 18.5h | 7 |
 
 ## Contents
 
@@ -148,7 +148,7 @@ Box latch
 
 ### 2026-10-18 – Added dowel pins to secure the hinges
 
-**1h**
+**1.5h**
 
 Added dowel pins to secure the hinges
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/331e95a1cbe85980b3b0f14331dbf9ca4beb3c354fd7ce9901e06ea3bea4311b.png)
