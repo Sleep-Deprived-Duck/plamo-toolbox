@@ -140,3 +140,7 @@ I used the shape of the lower box and hinges to extrude out into a box lid, then
 Added latch hinges to the lower half of the box
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/e5fc263c86674a7495ae22f92770aec21617322fa78069c8df463253215f36a0.png)
+
+Box latch
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/jFcqnyfCgFHMycfuvGRyaq1Je6KCKoY0/2d5721113654d26e7df1b314637dca7460e74c2f147259ee7b02da6f56f5fbdc.png)
