@@ -4,7 +4,9 @@ A portable toolbox for plastic model building tools
 
 
 Features:
+
 Clamshell lid with 2 locking latches
+
 2 stacked storage trays for tools
 - First tray has dedicated compartments for sanding and polishing tools, as well as a hobby knife handle.
 
